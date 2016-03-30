@@ -1,7 +1,7 @@
 # webpack-loader
  
 
-## there are some exmple about webpack loader 
+## there are some exmples about webpack loader 
 
 ### install package
  
@@ -17,6 +17,6 @@
  npm start
  ```
 
-### opn browser 
+### open browser 
 
 > http://localhost:3000
