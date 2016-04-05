@@ -22,7 +22,9 @@
     "style-loader": "^0.13.1",
     "template-html-loader": "^0.0.3",
     "url-loader": "^0.5.7",
-    "webpack": "^1.12.14"
+    "webpack": "^1.12.14",
+    "fastclick" : "^1.0.6",
+    "webpack-zepto":"^0.01"
   },
   "author": "leinov",
   "license": "ISC"
