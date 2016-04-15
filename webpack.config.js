@@ -19,7 +19,7 @@ module.exports = {
        {test : /\.(png|jpg|gif)$/ , loader:'url?limit=8192&name=images/[name].[ext]'}, //
        {test : /\.json$/ , loader:"json-loader"},
        {test : /\.html$/, loader:"mustache"}
-      //{test : /\.html$/ , loader:"html"} // 跟上面的html只能使用一个
+      
     ]
   }
 
